@@ -8,10 +8,3 @@ The main function is Experiment_MVu.m which will test mechanical, visual, and mu
 
 Navigational_env_v3 can be used to visualize the trajectory of an agent with specifically inputted mehcanical and visual frequencies. A color for the agent must also be inputted. 
 
-Path of functions:
-
-Experiment_MVMU.m --> Navigational_env_NoGraphTest_v2.m --> Behaviorial_decision_v2.m --> SR_data.m --> ellipse.m --> mech_MinMax.m --> mech_SR_alg.m
-				       \
-					> vis_MinMax.m --> vis_SR_alg.m
-
-Note: the path is the same for Experiment_2.m.  
